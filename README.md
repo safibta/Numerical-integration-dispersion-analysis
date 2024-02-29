@@ -1,4 +1,4 @@
-THe program considers the composite form of a numerical integration method for solving differential equations and constructs its linear multistep form. A set of tasks is performed concerning the dispersion analysis of the numerical method in a 1D context. Dispersion analysis is used to assess how well a numerical method replicates the propagation of waves compared to the exact solution.
+The program considers the composite form of a numerical integration method for solving differential equations and constructs its linear multistep form. A set of tasks is performed concerning the dispersion analysis of the numerical method in a 1D context. Dispersion analysis is used to assess how well a numerical method replicates the propagation of waves compared to the exact solution.
 
 First, the linear multistep form of the method is obtained. This form is used to calculate future states in a numerical simulation using several previous states.
 
